@@ -1,17 +1,31 @@
 # Ro-I-Love-U
 
-# 🌹 Love Responsive Animation
+Este proyecto fue creado con mucho cariño y dedicación para alguien muy especial.  
+Es una página web que combina **amor y tecnología**, con animaciones elegantes, diseño responsivo y pequeños detalles que cuentan.
 
-Este proyecto fue creado con mucho cariño y dedicación para una persona muy especial.  
-Es una página web que combina **amor y tecnología**, con una animación elegante y un diseño **totalmente responsive**, pensado para adaptarse a cualquier dispositivo.
+---
 
 ## ✨ Características
-- Animación fluida con HTML, CSS y JavaScript puro.
-- Diseño responsive que se adapta a pantallas de **móvil**, **tablet** y **PC**.
-- Código optimizado y fácil de entender.
-- Un mensaje oculto especial ❤️.
+
+- Animaciones suaves hechas con HTML, CSS y JavaScript.
+- Diseño completamente responsive: se ve bien en móvil, tablet y escritorio.
+- Código limpio y organizado para facilitar lecturas y modificaciones.
+- Mensaje oculto especial ❤️ (¡explóralo cuando puedas!).
+
+---
+
+## 👀 Vista previa
+
+Aquí una captura / animación de cómo se ve la página una vez desplegada:
+
+<p align="center">
+  <img src="ruta/a/la/imagen_de_vista_previa.png" alt="Vista previa del proyecto">
+</p>
+
+---
 
 ## 🚀 Cómo usarlo
-1. Descarga o clona este repositorio:
+
+1. Clona este repositorio:
    ```bash
-   git clone https://github.com/usuario/nombre-repo.git
+   git clone https://github.com/fernando2635/Ro-I-Love-U.git
